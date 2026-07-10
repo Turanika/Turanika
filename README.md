@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Turan 👋
 
-<!--
-**Turanika/Turanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Sc. Computer Science (Informatics in Culture and Health) student at HTW Berlin with a background in translation and interpreting.
 
-Here are some ideas to get you started:
+I am currently learning software development with a focus on Python, JavaScript, HTML and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- Git
+- Tkinter
+- pandas
+- APIs
+
+## Projects
+
+### LLM Translation Assistant
+A Python desktop application that uses the Gemini API to support translation evaluation and export results to Excel.
+
+### Vocabulary Trainer
+A Python desktop application for learning vocabulary with CSV import, GUI navigation and tests.
+
+## Current goal
+
+I am looking for a working student position in software development, frontend development or IT-related fields.
